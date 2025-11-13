@@ -208,11 +208,3 @@ let noGaps = fullName.replace(/\s/g, '');
 let username = "@" + noGaps + fullName.length;
 
 console.log(username);
-
-// let fullName = prompt("Enter your name");
-// fullName = fullName.toLowerCase();
-// fullName = fullName.trim();
-// let noGaps = fullName.replace(/\s/g, '');
-// let username = "@" + fullName + fullName.length;
-
-// console.log(username);
