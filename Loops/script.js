@@ -169,6 +169,10 @@ for(let i of str){  //illeterate
 // }
 
 
+//  let output = `The cost of ${obj.item} is ${obj.price} rupees`;
+//  console.log(output);
+
+
 // let sum = 0;
 
 // for(let i=1; i<=10; i++){
