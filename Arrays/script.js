@@ -12,8 +12,7 @@
 // arr[0] = "A"
 // arr[1] = "B"
   
-// console.log(arr);
-
+// xxxxxxxxxxxxxxxx
 
 // let heroes = ["Abdul Qadeer Khan", "Fatima Jinnah", "Abdul Sattar Edhi","Allama Iqbal", "Quaid-e-azam"];
 
