@@ -1,0 +1,46 @@
+
+body{
+    background-color:rgb(235, 234, 234);
+    margin-left: 40px;
+    padding: 0;
+}
+
+/* h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+} */
+
+.box{
+   
+    height: 200px;
+    width: 200px;
+    border: 2px solid #000000;
+    /* margin: 5px; */
+    text-align: center;
+   background-color: blueviolet;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* button{
+    color: white;
+    background-color: blue;
+    width: 80px;
+    height: 30px;
+    border-radius: 3px;
+    border-style: none;
+}
+
+button:hover{
+    background-color: blueviolet;
+} */
+
+
+#container{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+}
